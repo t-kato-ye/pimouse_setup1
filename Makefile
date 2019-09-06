@@ -6,4 +6,3 @@ install:
 uninstall:
 	update-rc.d raspimouse remove
 	rm /etc/init.d/raspimouse
-
